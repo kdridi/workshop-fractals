@@ -70,7 +70,7 @@ function windowResized() {
 }
 ```
 
-(Voir sur CodePen)[https://codepen.io/kdridi/embed/qByeWoR]
+[Voir sur CodePen](https://codepen.io/kdridi/embed/qByeWoR)
 
 ---
 
@@ -227,7 +227,7 @@ function mouseClicked() {
 }
 ```
 
-(Voir sur CodePen](https://codepen.io/kdridi/embed/XWBvWMg)
+[Voir sur CodePen](https://codepen.io/kdridi/embed/XWBvWMg)
 
 ---
 
